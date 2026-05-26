@@ -7,6 +7,7 @@ Private collection of custom Codex skills.
 - `skills/git-workflow/write-good-pr`
 - `skills/git-workflow/perfect-commit`
 - `skills/productivity/html-to-pdf`
+- `skills/productivity/technical-html-explainer`
 - `skills/code-quality/thermo-nuclear-code-quality-review`
 
 ## Install
@@ -17,5 +18,6 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   --path skills/git-workflow/write-good-pr \
   --path skills/git-workflow/perfect-commit \
   --path skills/productivity/html-to-pdf \
+  --path skills/productivity/technical-html-explainer \
   --path skills/code-quality/thermo-nuclear-code-quality-review
 ```

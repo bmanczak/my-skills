@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical HTML Explainer"
+  short_description: "Build source-grounded HTML explainers"
+  default_prompt: "Use $technical-html-explainer to create a self-contained technical HTML artifact grounded in repo, docs, and conversation evidence."
